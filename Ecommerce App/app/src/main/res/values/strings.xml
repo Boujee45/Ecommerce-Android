@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ecommerce App</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phoneNo">Phone Number</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="signup_success">Successfully Signed Up. You can now login</string>
+    <string name="signup_failed">Failed to Signed Up. Please Try Again!</string>
+    <string name="empty_fields">Please fill in all fields</string>
+    <string name="invalid_email">Invalid input. Please enter valid email address</string>
+    <string name="short_password">Invalid input. Please enter a password with 6 or more characters</string>
+    <string name="weak_password">Invalid input. Please enter a stronger password</string>
+    <string name="login_success">You have successfully logged in :-)</string>
+    <string name="invalid_credentials">Incorrect Username or Password. Please try again :-(</string>
+    <string name="login_failed">Login failed. Contact support</string>
+    <string name="forgot_password">Forgot Password?</string>
+</resources>
